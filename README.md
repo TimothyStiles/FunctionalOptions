@@ -1,5 +1,5 @@
 # FunctionalOptions
-Test driven examples of concepts reviewed by Márk Sági-Kazár in his [blog](https://sagikazarmark.hu/blog/functional-options-on-steroids/)
+Test driven examples of concepts reviewed by Márk Sági-Kazár in his [blog](https://sagikazarmark.hu/blog/functional-options-on-steroids/).
 
 ## Motivation
 
